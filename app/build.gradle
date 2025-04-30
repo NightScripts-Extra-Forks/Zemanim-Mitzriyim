@@ -7,7 +7,7 @@ plugins {
 android {
 
     defaultConfig {
-        applicationId "com.EJ.ROvadiahYosefCalendar"
+        applicationId "com.EJ.zemanimhamitzriyim"
         minSdk 25
         compileSdk 35
         targetSdk 35
@@ -45,7 +45,7 @@ android {
         viewBinding true
         buildConfig true
     }
-    namespace 'com.ej.rovadiahyosefcalendar'
+    namespace 'com.ej.zemanimhamitzriyim'
 }
 
 dependencies {

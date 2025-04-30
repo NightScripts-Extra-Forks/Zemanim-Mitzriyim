@@ -7,7 +7,7 @@
     android:clipChildren="false"
     android:orientation="vertical">
 
-    <com.ej.rovadiahyosefcalendar.classes.JustifyTextView
+    <com.ej.zemanimhamitzriyim.classes.JustifyTextView
         android:id="@+id/info"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -15,7 +15,7 @@
         android:padding="16dp"
         android:visibility="gone"/>
 
-    <com.ej.rovadiahyosefcalendar.classes.JustifyTextView
+    <com.ej.zemanimhamitzriyim.classes.JustifyTextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

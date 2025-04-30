@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_zmanim"
-        android:name="com.ej.rovadiahyosefcalendar.activities.ui.zmanim.ZmanimFragment"
+        android:name="com.ej.zemanimhamitzriyim.activities.ui.zmanim.ZmanimFragment"
         android:label="@string/zmanim"
         tools:layout="@layout/fragment_zmanim" />
 
     <fragment
         android:id="@+id/navigation_limud"
-        android:name="com.ej.rovadiahyosefcalendar.activities.ui.limudiim.LimudFragment"
+        android:name="com.ej.zemanimhamitzriyim.activities.ui.limudiim.LimudFragment"
         android:label="@string/limudim_hillulot"
         tools:layout="@layout/fragment_limud" />
 
     <fragment
         android:id="@+id/navigation_siddur"
-        android:name="com.ej.rovadiahyosefcalendar.activities.ui.siddur.SiddurFragment"
+        android:name="com.ej.zemanimhamitzriyim.activities.ui.siddur.SiddurFragment"
         android:label="@string/siddur"
         tools:layout="@layout/fragment_siddur" />
 </navigation>
